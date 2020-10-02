@@ -1,0 +1,14 @@
+.LeftMenu {
+  float: left;
+  width: 15vw;
+
+  max-width: 15vw;
+  background: rgb(111, 34, 34);
+  background: linear-gradient(
+    0deg,
+    rgba(111, 34, 34, 1) 30%,
+    rgba(177, 21, 21, 1) 100%,
+    rgba(194, 24, 24, 1) 100%
+  );
+  min-height: 100%;
+}

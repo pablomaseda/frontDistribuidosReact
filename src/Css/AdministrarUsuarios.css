@@ -1,0 +1,48 @@
+.AdministrarUsuarios {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  height: 55rem;
+  margin: 1rem;
+}
+.HeaderGrid {
+  text-align: center;
+  padding-top: 1rem;
+  border-bottom: 1px solid black;
+  padding-bottom: 1rem;
+}
+.DataGrid {
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  align-self: center;
+}
+.ContainerDataGrid:hover {
+  background-color: #eee;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+.OverflowTable {
+  max-height: 40rem;
+  overflow-y: auto;
+}
+.ToolBarUsuarios {
+  align-self: center;
+}
+.ButtonNuevoUsuario {
+  background-color: #00c711 !important;
+  color: white !important;
+}
+
+.IconMateriaOff {
+  color: #d3d3d3;
+  padding: 0.2rem;
+  margin-left: 1.5rem;
+  float: left;
+}
+.IconMateriaOn {
+  color: #454545;
+  padding: 0.2rem;
+  float: left;
+  margin-left: 1.5rem;
+}

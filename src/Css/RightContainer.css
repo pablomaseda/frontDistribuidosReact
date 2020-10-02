@@ -1,0 +1,9 @@
+.RightContainer {
+  float: left;
+  width: 85vw;
+  max-width: 85vw;
+  background: rgb(56, 55, 55);
+  min-height: 100%;
+  overflow-y: auto;
+  max-height: 100vh;
+}

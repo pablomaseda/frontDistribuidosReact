@@ -1,0 +1,26 @@
+.InformacionPersonal {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  height: 55rem;
+  margin: 1rem;
+}
+.TitleDatosContacto {
+  text-align: center;
+}
+.TitleDatosPersonales {
+  text-align: center;
+}
+.InputsDato {
+  margin: 0.5rem !important;
+}
+.ColumInformacionPersonal {
+  padding: 2rem;
+  padding-top: 0rem;
+}
+.ButtonGuardarInformacionPersonal {
+  margin-left: 2rem !important;
+  margin-bottom: 1rem !important;
+  background-color: #00c711 !important;
+  color: white !important;
+}
